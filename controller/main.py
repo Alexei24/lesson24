@@ -13,6 +13,6 @@ def main():
     player = Manager.give_golden_ball(players)
 
     print(f"The best of players: {player}")
-    
+
 if __name__ == "__main__":
     main()
